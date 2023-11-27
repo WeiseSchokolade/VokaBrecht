@@ -1,0 +1,33 @@
+{
+    "extensions": {
+        "english": [],
+        "french": [
+            [
+                "qc",
+                "qc.",
+                "quelque chose"
+            ],
+            [
+                "qn",
+                "qn.", "quelqu'un", "quelqu'une"
+            ]
+        ],
+        "german": [
+            [
+                "etw.",
+                "etw",
+                "etwas"
+            ],
+            [
+                "jdm.",
+                "jdm",
+                "jemandem"
+            ],
+            [
+                "jdn.",
+                "jdn",
+                "jemanden"
+            ]
+        ]
+    }
+}

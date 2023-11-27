@@ -1,0 +1,61 @@
+[
+    {
+        "english": [
+            "house"
+        ],
+        "french": [
+            "maison"
+        ],
+        "german": [
+            "Haus"
+        ],
+        "occurances": [
+            "Découvertes 1"
+        ]
+    },
+    {
+        "english": [
+            "dog"
+        ],
+        "french": [
+            "chien"
+        ],
+        "german": [
+            "Hund",
+            "Köter"
+        ],
+        "occurances": [
+            "Découvertes 1 U1"
+        ]
+    },
+    {
+        "english": [
+            "cat",
+            "kitty"
+        ],
+        "french": [
+            "chat"
+        ],
+        "german": [
+            "Katze"
+        ],
+        "occurances": [
+            "Découvertes 1 U1",
+            "GreenLine 1"
+        ]
+    },
+    {
+        "english": [
+            "animal"
+        ],
+        "french": [
+            "animal"
+        ],
+        "german": [
+            "Tier"
+        ],
+        "occurances": [
+            "Découvertes 1 U1"
+        ]
+    }
+]
